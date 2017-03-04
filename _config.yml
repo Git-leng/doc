@@ -1,1 +1,3 @@
 baseurl: /doc
+
+theme: jekyll-theme-cayman
